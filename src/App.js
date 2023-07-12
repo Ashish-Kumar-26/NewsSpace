@@ -11,6 +11,10 @@ export default function App() {
   const apiKey = process.env.REACT_APP_NEWS_API;
 
   const [progress, setProgress] = useState(0);
+  // "hompage": "https://Ashish-Kumar-26.github.io/NewsSpace",
+  
+  // "predeploy": "npm run build",
+  // "deploy": "gh-pages -d build",
 
     return (
       <div>
